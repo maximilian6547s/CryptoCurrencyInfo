@@ -1,4 +1,4 @@
-package com.maximcuker.cryptocurrencyinfo.ui.theme
+package com.maximcuker.cryptocurrencyinfo.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
